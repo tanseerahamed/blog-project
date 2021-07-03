@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.author-name{
+    color: forestgreen;
+}
+.blog{
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid greenyellow;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+.blog-title{
+    text-align: center;
+}
+.blog p{
+    text-align: justify;
+}
